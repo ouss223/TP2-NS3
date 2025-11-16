@@ -1,0 +1,7 @@
+duration_s,9.933094
+total_bytes,1093302
+avg_throughput_mbps,0.880533
+loss_pct,65.98439327189686
+lat_mean_ms,NA
+lat_median_ms,NA
+lat_p95_ms,NA

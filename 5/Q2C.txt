@@ -1,0 +1,41 @@
+=== ANALYSE MIMO 802.11n ===
+Flux spatiaux: 2
+Distance STA-AP: 5 m
+Largeur de canal: 20 MHz
+Configuration: 2x2 MIMO
+
+=== RÉSULTATS ===
+Distance: 5 m
+Largeur canal: 20 MHz
+Débit théorique: 130 Mbps
+Débit mesuré: 91.6487 Mbps
+Efficacité: 70.499%
+Paquets reçus: 61186
+Paquets envoyés: 61225
+Taux de perte: 0%
+✅ Lien excellent
+📈 Gain MIMO: 70.499% d'efficacité
+
+
+
+
+
+
+=== ANALYSE MIMO 802.11n ===
+Flux spatiaux: 2
+Distance STA-AP: 5 m
+Largeur de canal: 40 MHz
+Configuration: 2x2 MIMO
+
+=== RÉSULTATS ===
+Distance: 5 m
+Largeur canal: 40 MHz
+Débit théorique: 270 Mbps
+Débit mesuré: 183.263 Mbps
+Efficacité: 67.8753%
+Paquets reçus: 122347
+Paquets envoyés: 122450
+Taux de perte: 0.0187832%
+✅ Lien excellent
+🔊 Channel Bonding 40MHz activé
+📈 Gain MIMO: 67.8753% d'efficacité

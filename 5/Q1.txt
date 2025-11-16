@@ -1,0 +1,36 @@
+=== ANALYSE MIMO 802.11n ===
+Flux spatiaux: 1
+Distance STA-AP: 10 m
+Configuration: 1x1 MIMO
+
+=== RÉSULTATS ===
+Distance: 10 m
+Débit théorique: 65 Mbps
+Débit mesuré: 45.8219 Mbps
+Efficacité: 70.4953%
+Paquets reçus: 30592
+Paquets envoyés: 30613
+Taux de perte: 0%
+✅ Lien excellent
+
+
+
+
+
+
+
+=== ANALYSE MIMO 802.11n ===
+Flux spatiaux: 2
+Distance STA-AP: 10 m
+Configuration: 2x2 MIMO
+
+=== RÉSULTATS ===
+Distance: 10 m
+Débit théorique: 130 Mbps
+Débit mesuré: 91.6412 Mbps
+Efficacité: 70.4932%
+Paquets reçus: 61181
+Paquets envoyés: 61225
+Taux de perte: 0%
+✅ Lien excellent
+📈 Gain MIMO: 70.4932% d'efficacité

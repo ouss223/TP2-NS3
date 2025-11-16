@@ -1,0 +1,20 @@
+
+=== STATISTIQUES FLOW MONITOR ===
+Flow 1:
+  Tx Packets: 10
+  Rx Packets: 10
+  Lost Packets: 0
+  Mean Delay: 5 ms
+  Throughput: 9.3469 kbps
+Flow 2:
+  Tx Packets: 10
+  Rx Packets: 10
+  Lost Packets: 0
+  Mean Delay: 5 ms
+  Throughput: 9.36255 kbps
+
+=== STATISTIQUES DES DÉLAIS ===
+Délai moyen: 10.5 ms
+Délai minimum: 8 ms
+Délai maximum: 33 ms
+Nombre de paquets mesurés: 10
